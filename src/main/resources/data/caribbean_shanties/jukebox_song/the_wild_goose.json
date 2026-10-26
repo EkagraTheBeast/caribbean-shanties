@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.the_wild_goose"
+  },
+  "length_in_seconds": 111.026,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.the_wild_goose"
+  }
+}

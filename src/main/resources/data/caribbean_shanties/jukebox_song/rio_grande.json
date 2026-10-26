@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.rio_grande"
+  },
+  "length_in_seconds": 120.021,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.rio_grande"
+  }
+}

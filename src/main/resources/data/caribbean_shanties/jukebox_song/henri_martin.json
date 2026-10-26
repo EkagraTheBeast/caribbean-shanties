@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.henri_martin"
+  },
+  "length_in_seconds": 139.041,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.henri_martin"
+  }
+}

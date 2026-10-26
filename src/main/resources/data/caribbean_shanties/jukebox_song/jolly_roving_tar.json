@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.jolly_roving_tar"
+  },
+  "length_in_seconds": 136.847,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.jolly_roving_tar"
+  }
+}

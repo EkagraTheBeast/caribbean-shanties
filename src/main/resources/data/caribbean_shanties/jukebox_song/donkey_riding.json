@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.donkey_riding"
+  },
+  "length_in_seconds": 120.001,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.donkey_riding"
+  }
+}

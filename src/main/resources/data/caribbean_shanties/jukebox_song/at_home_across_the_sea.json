@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.at_home_across_the_sea"
+  },
+  "length_in_seconds": 100.117,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.at_home_across_the_sea"
+  }
+}

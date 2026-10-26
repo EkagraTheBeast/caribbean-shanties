@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.the_worst_old_ship"
+  },
+  "length_in_seconds": 78.251,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.the_worst_old_ship"
+  }
+}

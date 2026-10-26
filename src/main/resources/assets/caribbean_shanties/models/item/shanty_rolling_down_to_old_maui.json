@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "caribbean_shanties:item/shanty_rolling_down_to_old_maui"
+  }
+}

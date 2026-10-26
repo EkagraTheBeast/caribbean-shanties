@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.hauley_hauley_ho"
+  },
+  "length_in_seconds": 43.371,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.hauley_hauley_ho"
+  }
+}

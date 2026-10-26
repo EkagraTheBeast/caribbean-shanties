@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.don_t_forget_your_old_shipmates"
+  },
+  "length_in_seconds": 132.053,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.don_t_forget_your_old_shipmates"
+  }
+}

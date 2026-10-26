@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.the_golden_vanity"
+  },
+  "length_in_seconds": 113.023,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.the_golden_vanity"
+  }
+}

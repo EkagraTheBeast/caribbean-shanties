@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.down_among_the_dead_men"
+  },
+  "length_in_seconds": 132.293,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.down_among_the_dead_men"
+  }
+}

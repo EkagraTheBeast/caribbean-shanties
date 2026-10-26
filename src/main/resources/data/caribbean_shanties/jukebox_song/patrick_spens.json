@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.patrick_spens"
+  },
+  "length_in_seconds": 113.731,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.patrick_spens"
+  }
+}

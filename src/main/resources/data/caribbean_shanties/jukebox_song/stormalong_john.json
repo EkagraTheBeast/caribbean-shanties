@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.stormalong_john"
+  },
+  "length_in_seconds": 88.896,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.stormalong_john"
+  }
+}

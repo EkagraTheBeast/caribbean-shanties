@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "caribbean_shanties:item/shanty_goodbye_fare_ye_well"
+  }
+}

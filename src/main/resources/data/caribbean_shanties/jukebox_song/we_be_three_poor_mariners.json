@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.we_be_three_poor_mariners"
+  },
+  "length_in_seconds": 109.029,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.we_be_three_poor_mariners"
+  }
+}

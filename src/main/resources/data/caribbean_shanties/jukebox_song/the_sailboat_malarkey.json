@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.the_sailboat_malarkey"
+  },
+  "length_in_seconds": 83.627,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.the_sailboat_malarkey"
+  }
+}

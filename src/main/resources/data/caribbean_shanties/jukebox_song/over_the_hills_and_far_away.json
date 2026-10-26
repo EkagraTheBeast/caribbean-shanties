@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.over_the_hills_and_far_away"
+  },
+  "length_in_seconds": 125.515,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.over_the_hills_and_far_away"
+  }
+}

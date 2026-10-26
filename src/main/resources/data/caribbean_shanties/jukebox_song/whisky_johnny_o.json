@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.whisky_johnny_o"
+  },
+  "length_in_seconds": 81.34,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.whisky_johnny_o"
+  }
+}

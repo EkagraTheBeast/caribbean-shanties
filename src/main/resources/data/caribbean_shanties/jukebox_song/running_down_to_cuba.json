@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.running_down_to_cuba"
+  },
+  "length_in_seconds": 89.896,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.running_down_to_cuba"
+  }
+}

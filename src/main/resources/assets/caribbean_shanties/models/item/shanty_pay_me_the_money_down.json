@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "caribbean_shanties:item/shanty_pay_me_the_money_down"
+  }
+}

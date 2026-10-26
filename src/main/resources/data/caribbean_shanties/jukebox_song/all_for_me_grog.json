@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.all_for_me_grog"
+  },
+  "length_in_seconds": 128.163,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.all_for_me_grog"
+  }
+}

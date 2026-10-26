@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.padstow_farewell"
+  },
+  "length_in_seconds": 139.447,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.padstow_farewell"
+  }
+}

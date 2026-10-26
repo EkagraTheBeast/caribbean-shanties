@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.round_the_corner_sally"
+  },
+  "length_in_seconds": 74.571,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.round_the_corner_sally"
+  }
+}

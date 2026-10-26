@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.pay_me_the_money_down"
+  },
+  "length_in_seconds": 97.361,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.pay_me_the_money_down"
+  }
+}

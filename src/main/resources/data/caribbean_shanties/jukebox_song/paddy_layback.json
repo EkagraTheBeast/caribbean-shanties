@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.paddy_layback"
+  },
+  "length_in_seconds": 153.6,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.paddy_layback"
+  }
+}

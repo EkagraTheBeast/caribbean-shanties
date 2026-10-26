@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "caribbean_shanties:item/shanty_don_t_forget_your_old_shipmates"
+  }
+}

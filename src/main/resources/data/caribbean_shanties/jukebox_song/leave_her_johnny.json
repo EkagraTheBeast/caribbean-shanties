@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.leave_her_johnny"
+  },
+  "length_in_seconds": 130.577,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.leave_her_johnny"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "caribbean_shanties:item/shanty_way_me_susiana"
+  }
+}

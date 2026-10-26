@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.hi_for_the_beggarman"
+  },
+  "length_in_seconds": 134.084,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.hi_for_the_beggarman"
+  }
+}

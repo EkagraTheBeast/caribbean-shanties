@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.bully_in_the_alley"
+  },
+  "length_in_seconds": 91.541,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.bully_in_the_alley"
+  }
+}

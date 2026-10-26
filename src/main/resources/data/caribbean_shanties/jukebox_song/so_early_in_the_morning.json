@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.so_early_in_the_morning"
+  },
+  "length_in_seconds": 86.891,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.so_early_in_the_morning"
+  }
+}

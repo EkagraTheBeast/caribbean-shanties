@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.my_bonnie_highland_lassie"
+  },
+  "length_in_seconds": 98.801,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.my_bonnie_highland_lassie"
+  }
+}

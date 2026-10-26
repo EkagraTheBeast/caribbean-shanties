@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.a_long_time_ago"
+  },
+  "length_in_seconds": 168.205,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.a_long_time_ago"
+  }
+}

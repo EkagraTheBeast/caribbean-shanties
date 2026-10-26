@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.hi_ho_come_roll_me_over"
+  },
+  "length_in_seconds": 113.29,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.hi_ho_come_roll_me_over"
+  }
+}

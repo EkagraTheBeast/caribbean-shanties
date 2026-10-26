@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.trooper_and_the_maid"
+  },
+  "length_in_seconds": 117.675,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.trooper_and_the_maid"
+  }
+}

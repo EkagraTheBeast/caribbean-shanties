@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.the_coasts_of_high_barbary"
+  },
+  "length_in_seconds": 85.078,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.the_coasts_of_high_barbary"
+  }
+}

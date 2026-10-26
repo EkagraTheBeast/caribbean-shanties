@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.song_of_singapura"
+  },
+  "length_in_seconds": 131.776,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.song_of_singapura"
+  }
+}

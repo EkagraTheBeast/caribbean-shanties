@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.good_morning_ladies_all"
+  },
+  "length_in_seconds": 98.441,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.good_morning_ladies_all"
+  }
+}

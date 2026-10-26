@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.the_bonnie_lass_o_fyvie"
+  },
+  "length_in_seconds": 122.601,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.the_bonnie_lass_o_fyvie"
+  }
+}

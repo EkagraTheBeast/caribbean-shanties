@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.blow_away_the_morning_dew"
+  },
+  "length_in_seconds": 104.014,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.blow_away_the_morning_dew"
+  }
+}

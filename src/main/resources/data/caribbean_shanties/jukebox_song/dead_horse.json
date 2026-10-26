@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.dead_horse"
+  },
+  "length_in_seconds": 67.175,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.dead_horse"
+  }
+}

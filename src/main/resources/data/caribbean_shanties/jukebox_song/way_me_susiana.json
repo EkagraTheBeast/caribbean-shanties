@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.way_me_susiana"
+  },
+  "length_in_seconds": 75.925,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.way_me_susiana"
+  }
+}

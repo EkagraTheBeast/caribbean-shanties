@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.new_york_girls"
+  },
+  "length_in_seconds": 139.923,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.new_york_girls"
+  }
+}

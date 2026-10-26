@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.burn_blackbeard_s_beard"
+  },
+  "length_in_seconds": 88.469,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.burn_blackbeard_s_beard"
+  }
+}

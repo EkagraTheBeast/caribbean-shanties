@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.captain_ward"
+  },
+  "length_in_seconds": 87.872,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.captain_ward"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.one_more_day"
+  },
+  "length_in_seconds": 148.968,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.one_more_day"
+  }
+}

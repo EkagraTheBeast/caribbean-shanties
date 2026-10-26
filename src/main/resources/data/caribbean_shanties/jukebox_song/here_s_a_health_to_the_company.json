@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.here_s_a_health_to_the_company"
+  },
+  "length_in_seconds": 155.669,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.here_s_a_health_to_the_company"
+  }
+}

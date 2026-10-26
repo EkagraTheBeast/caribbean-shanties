@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.johnny_boker"
+  },
+  "length_in_seconds": 73.984,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.johnny_boker"
+  }
+}

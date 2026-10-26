@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.cheerly_men"
+  },
+  "length_in_seconds": 89.06,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.cheerly_men"
+  }
+}

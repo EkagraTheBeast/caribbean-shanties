@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.shallow_brown"
+  },
+  "length_in_seconds": 139.122,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.shallow_brown"
+  }
+}

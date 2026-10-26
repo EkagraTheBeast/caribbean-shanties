@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.fish_in_the_sea"
+  },
+  "length_in_seconds": 89.258,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.fish_in_the_sea"
+  }
+}

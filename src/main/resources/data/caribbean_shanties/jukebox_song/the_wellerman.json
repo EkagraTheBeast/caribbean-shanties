@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.the_wellerman"
+  },
+  "length_in_seconds": 159.381,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.the_wellerman"
+  }
+}

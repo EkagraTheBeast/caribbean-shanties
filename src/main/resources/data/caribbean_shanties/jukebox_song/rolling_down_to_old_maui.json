@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.rolling_down_to_old_maui"
+  },
+  "length_in_seconds": 152.16,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.rolling_down_to_old_maui"
+  }
+}

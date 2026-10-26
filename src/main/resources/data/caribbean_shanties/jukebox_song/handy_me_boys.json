@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.handy_me_boys"
+  },
+  "length_in_seconds": 92.334,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.handy_me_boys"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.paddy_doyle_s_boots"
+  },
+  "length_in_seconds": 61.525,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.paddy_doyle_s_boots"
+  }
+}

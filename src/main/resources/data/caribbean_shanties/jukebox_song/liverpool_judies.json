@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.liverpool_judies"
+  },
+  "length_in_seconds": 145.845,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.liverpool_judies"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.star_of_the_county_down"
+  },
+  "length_in_seconds": 116.181,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.star_of_the_county_down"
+  }
+}

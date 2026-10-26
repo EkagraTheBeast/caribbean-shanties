@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.windy_old_weather"
+  },
+  "length_in_seconds": 105.488,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.windy_old_weather"
+  }
+}

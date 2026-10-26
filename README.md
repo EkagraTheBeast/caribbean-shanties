@@ -1,0 +1,19 @@
+# Caribbean Shanties (Fabric 26.2)
+
+A Fabric 26.2 mod that adds collectible, jukebox-playable shanty discs. Each creeper has a 10% chance to drop one of the discs when a skeleton gets the kill. Vanilla structure chest loot tables receive an additive 2% chance pool containing one random shanty disc; third-party chest tables are left unchanged.
+
+Every disc has an original generated pixel-art texture. In-game item names use the requested game suffix. The jukebox now-playing credit displays Artist - Song; Resynced source filenames provide Seán Dagher or Sarah Greene where credited, while the supplied original-game files lack individual artist tags and use the album credit Various Artists.
+
+## Imported audio
+
+The project imported 84 unique tracks from the user-provided C:\Users\Ekagra\Downloads\Mod Work\Shanties Music Discs folder. All 85 source files were identified as OGG Vorbis, copied without re-encoding, and left unchanged. The repeated Goodbye, Fare-ye-well title is represented once. shanty_manifest.csv records track labels, artist credit, source filenames, codec, duration, bitrate estimate, and checksums.
+
+No filenames in the supplied folder identify a Freedom Cry track, so this import contains no Freedom Cry audio.
+
+To re-import after adding more OGG Vorbis files, run:
+
+    py "$env:TEMP\caribbean-shanties\tools\import_shanties.py"
+
+## Build
+
+Requires JDK 25+ and network access for Gradle dependencies. The project targets Minecraft 26.2, Fabric Loader 0.19.3, Fabric API 0.155.2+26.2, Loom 1.17.21, and Gradle 9.5.1. Generate a wrapper with gradle wrapper --gradle-version 9.5.1, then run gradlew.bat build.

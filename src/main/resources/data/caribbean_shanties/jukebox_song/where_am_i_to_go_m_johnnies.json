@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.where_am_i_to_go_m_johnnies"
+  },
+  "length_in_seconds": 84.893,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.where_am_i_to_go_m_johnnies"
+  }
+}

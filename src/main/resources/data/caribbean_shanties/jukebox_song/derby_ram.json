@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.derby_ram"
+  },
+  "length_in_seconds": 88.832,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.derby_ram"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.maid_of_amsterdam"
+  },
+  "length_in_seconds": 101.141,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.maid_of_amsterdam"
+  }
+}

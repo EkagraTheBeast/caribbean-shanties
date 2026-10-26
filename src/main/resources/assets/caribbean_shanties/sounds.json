@@ -1,0 +1,674 @@
+{
+  "shanty.a_long_time_ago": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/a_long_time_ago",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.admiral_benbow": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/admiral_benbow",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.all_for_me_grog": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/all_for_me_grog",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.at_home_across_the_sea": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/at_home_across_the_sea",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.billy_riley": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/billy_riley",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.blood_red_roses": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/blood_red_roses",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.blow_away_the_morning_dew": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/blow_away_the_morning_dew",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.blow_the_man_down": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/blow_the_man_down",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.bold_riley_oh": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/bold_riley_oh",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.bully_in_the_alley": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/bully_in_the_alley",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.burn_blackbeard_s_beard": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/burn_blackbeard_s_beard",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.captain_kidd": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/captain_kidd",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.captain_ward": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/captain_ward",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.cheerly_men": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/cheerly_men",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.dead_horse": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/dead_horse",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.derby_ram": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/derby_ram",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.don_t_forget_your_old_shipmates": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/don_t_forget_your_old_shipmates",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.donkey_riding": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/donkey_riding",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.down_among_the_dead_men": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/down_among_the_dead_men",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.drunken_sailor": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/drunken_sailor",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.fathom_the_bowl": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/fathom_the_bowl",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.fish_in_the_sea": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/fish_in_the_sea",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.go_to_sea_once_more": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/go_to_sea_once_more",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.good_morning_ladies_all": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/good_morning_ladies_all",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.goodbye_fare_ye_well": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/goodbye_fare_ye_well",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.handy_me_boys": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/handy_me_boys",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.haul_away": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/haul_away",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.hauley_hauley_ho": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/hauley_hauley_ho",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.heave_away_me_johnny": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/heave_away_me_johnny",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.henri_martin": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/henri_martin",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.here_s_a_health_to_the_company": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/here_s_a_health_to_the_company",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.hi_for_the_beggarman": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/hi_for_the_beggarman",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.hi_ho_come_roll_me_over": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/hi_ho_come_roll_me_over",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.johnny_boker": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/johnny_boker",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.jolly_roving_tar": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/jolly_roving_tar",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.katie_cruel": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/katie_cruel",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.leave_her_johnny": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/leave_her_johnny",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.little_drummer": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/little_drummer",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.liverpool_judies": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/liverpool_judies",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.lowlands_away": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/lowlands_away",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.maggie_lauder": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/maggie_lauder",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.maid_of_amsterdam": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/maid_of_amsterdam",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.my_bonnie_highland_lassie": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/my_bonnie_highland_lassie",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.new_york_girls": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/new_york_girls",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.one_more_day": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/one_more_day",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.over_the_hills_and_far_away": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/over_the_hills_and_far_away",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.paddy_doyle_s_boots": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/paddy_doyle_s_boots",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.paddy_layback": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/paddy_layback",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.padstow_farewell": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/padstow_farewell",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.patrick_spens": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/patrick_spens",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.pay_me_the_money_down": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/pay_me_the_money_down",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.randy_dandy_oh": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/randy_dandy_oh",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.reuben_renzo": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/reuben_renzo",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.rio_grande": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/rio_grande",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.roll_and_go": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/roll_and_go",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.roll_boys_roll": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/roll_boys_roll",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.roller_bowler": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/roller_bowler",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.rolling_down_to_old_maui": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/rolling_down_to_old_maui",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.round_the_corner_sally": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/round_the_corner_sally",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.running_down_to_cuba": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/running_down_to_cuba",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.shallow_brown": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/shallow_brown",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.so_early_in_the_morning": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/so_early_in_the_morning",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.song_of_singapura": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/song_of_singapura",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.spanish_ladies": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/spanish_ladies",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.star_of_the_county_down": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/star_of_the_county_down",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.stede_bonnet": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/stede_bonnet",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.stormalong_john": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/stormalong_john",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_bonnie_lass_o_fyvie": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_bonnie_lass_o_fyvie",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_coasts_of_high_barbary": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_coasts_of_high_barbary",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_golden_vanity": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_golden_vanity",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_nightingale": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_nightingale",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_parting_glass": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_parting_glass",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_sailboat_malarkey": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_sailboat_malarkey",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_wellerman": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_wellerman",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_wild_goose": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_wild_goose",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.the_worst_old_ship": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/the_worst_old_ship",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.trooper_and_the_maid": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/trooper_and_the_maid",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.way_me_susiana": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/way_me_susiana",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.we_be_three_poor_mariners": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/we_be_three_poor_mariners",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.where_am_i_to_go_m_johnnies": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/where_am_i_to_go_m_johnnies",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.whisky_johnny_o": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/whisky_johnny_o",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.william_taylor": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/william_taylor",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.windy_old_weather": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/windy_old_weather",
+        "stream": true
+      }
+    ]
+  },
+  "shanty.ye_jacobytes": {
+    "sounds": [
+      {
+        "name": "caribbean_shanties:shanties/ye_jacobytes",
+        "stream": true
+      }
+    ]
+  }
+}

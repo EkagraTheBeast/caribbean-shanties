@@ -1,0 +1,10 @@
+{
+  "comparator_output": 1,
+  "description": {
+    "translate": "jukebox_song.caribbean_shanties.roller_bowler"
+  },
+  "length_in_seconds": 156.05,
+  "sound_event": {
+    "sound_id": "caribbean_shanties:shanty.roller_bowler"
+  }
+}
