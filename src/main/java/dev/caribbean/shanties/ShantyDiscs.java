@@ -2,20 +2,25 @@ package dev.caribbean.shanties;
 
 import java.util.ArrayList;
 import java.util.List;
-import net.fabricmc.fabric.api.creativetab.v1.CreativeModeTabEvents;
+import net.fabricmc.fabric.api.creativetab.v1.FabricCreativeModeTab;
 import net.minecraft.core.Registry;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.resources.Identifier;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.JukeboxSong;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.world.item.ItemStack;
 import net.minecraft.sounds.SoundEvent;
+import net.minecraft.network.chat.Component;
 
 public final class ShantyDiscs {
     private ShantyDiscs() {}
     public static final List<Item> ALL = new ArrayList<>();
+    private static final ResourceKey<CreativeModeTab> SHANTIES_TAB = ResourceKey.create(
+            Registries.CREATIVE_MODE_TAB,
+            Identifier.fromNamespaceAndPath(CaribbeanShanties.MOD_ID, "shanties"));
     private static final String[][] ENTRIES = {
         {"shanty_a_long_time_ago", "a_long_time_ago"},
         {"shanty_admiral_benbow", "admiral_benbow"},
@@ -112,6 +117,11 @@ public final class ShantyDiscs {
             Item item = Registry.register(BuiltInRegistries.ITEM, itemKey, new Item(new Item.Properties().setId(itemKey).stacksTo(1).jukeboxPlayable(songKey)));
             ALL.add(item);
         }
-        CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.INGREDIENTS).register(tab -> ALL.forEach(tab::accept));
+        Registry.register(BuiltInRegistries.CREATIVE_MODE_TAB, SHANTIES_TAB,
+                FabricCreativeModeTab.builder()
+                        .title(Component.translatable("itemGroup.caribbean_shanties.shanties"))
+                        .icon(() -> new ItemStack(ALL.get(0)))
+                        .displayItems((parameters, output) -> ALL.forEach(output::accept))
+                        .build());
     }
 }
