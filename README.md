@@ -2,6 +2,8 @@
 
 A Fabric 26.2 mod that adds collectible, jukebox-playable shanty discs. Each creeper has a 10% chance to drop one of the discs when a skeleton gets the kill. Vanilla structure chest loot tables receive an additive 2% chance pool containing one random shanty disc; third-party chest tables are left unchanged.
 
+Custom jukebox playback is patched so the client keeps playing while a disc remains inserted and stops immediately when the disc is removed. See `THIRD_PARTY_NOTICES.md` for the upstream implementation credit and license.
+
 Every disc has an original generated pixel-art texture. In-game item names use the requested game suffix. The jukebox now-playing credit displays Artist - Song; Resynced source filenames provide Seán Dagher or Sarah Greene where credited, while the supplied original-game files lack individual artist tags and use the album credit Various Artists.
 
 ## Imported audio

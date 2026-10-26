@@ -6,5 +6,6 @@
   "description": "Collectible shanty sheets with a rare drop when a skeleton defeats a creeper.",
   "authors": ["You"], "license": "MIT", "environment": "*",
   "entrypoints": { "main": ["dev.caribbean.shanties.CaribbeanShanties"] },
+  "mixins": ["caribbean_shanties.mixins.json"],
   "depends": { "fabricloader": ">=0.19.3", "minecraft": "26.2", "java": ">=25", "fabric-api": "*" }
 }
