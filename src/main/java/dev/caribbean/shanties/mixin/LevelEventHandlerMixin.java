@@ -2,6 +2,9 @@ package dev.caribbean.shanties.mixin;
 
 import net.minecraft.client.renderer.LevelEventHandler;
 import net.minecraft.core.BlockPos;
+import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.JukeboxBlock;
+import net.minecraft.world.level.block.state.BlockState;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Redirect;
@@ -15,6 +18,10 @@ public abstract class LevelEventHandlerMixin {
                     target = "Lnet/minecraft/client/renderer/LevelEventHandler;stopJukeboxSongAndNotifyNearby(Lnet/minecraft/core/BlockPos;)V"))
     private void caribbeanShanties$deferJukeboxStopUntilDiscRemoval(
             LevelEventHandler handler, BlockPos pos) {
-        // ClientLevelMixin performs the stop once the jukebox's has_record state becomes false.
+        LevelEventHandlerAccessor accessor = (LevelEventHandlerAccessor) handler;
+        BlockState state = accessor.caribbeanShanties$getLevel().getBlockState(pos);
+        if (state.getBlock() != Blocks.JUKEBOX || !state.getValue(JukeboxBlock.HAS_RECORD)) {
+            accessor.caribbeanShanties$stopJukeboxSongAndNotifyNearby(pos);
+        }
     }
 }
