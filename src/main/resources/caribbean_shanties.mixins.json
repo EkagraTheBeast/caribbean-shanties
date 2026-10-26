@@ -7,6 +7,7 @@
     "JukeboxSongPlayerMixin"
   ],
   "client": [
+    "ClientLevelAccessor",
     "ClientLevelMixin",
     "LevelEventHandlerAccessor",
     "LevelEventHandlerMixin"
