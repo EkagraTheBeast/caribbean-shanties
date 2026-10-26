@@ -6,13 +6,9 @@ Every disc has an original generated pixel-art texture. In-game item names use t
 
 ## Imported audio
 
-The project imported 84 unique tracks from the user-provided C:\Users\Ekagra\Downloads\Mod Work\Shanties Music Discs folder. All 85 source files were identified as OGG Vorbis, copied without re-encoding, and left unchanged. The repeated Goodbye, Fare-ye-well title is represented once. shanty_manifest.csv records track labels, artist credit, source filenames, codec, duration, bitrate estimate, and checksums.
-
+The project imported 84 unique tracks from the Assassin's Creed Series. All 85 source files were identified as OGG Vorbis, copied without re-encoding, and left unchanged.
 No filenames in the supplied folder identify a Freedom Cry track, so this import contains no Freedom Cry audio.
 
-To re-import after adding more OGG Vorbis files, run:
-
-    py "$env:TEMP\caribbean-shanties\tools\import_shanties.py"
 
 ## Build
 
